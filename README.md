@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imvidit
+- 👋 Hi, I’m @imvidit, Phd Student at Graphic Era University, India
 - 👀 I’m interested in Deep Learning.
 - 🌱 I’m currently working in area of video retrieval, video representation learning, self supervised learning and deep metric learning
 - 🌱 My future goals to do research in medical image analysis and biometrics.
