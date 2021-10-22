@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @imvidit
+- 👀 I’m interested in Deep Learning.
+- 🌱 I’m currently working in area of video retrieval, video representation learning, self supervised learning and deep metric learning
+- 🌱 My future goals to do research in medical image analysis and biometrics.
+- 💞️ I’m looking to collaborate on self supervised learning and other areas in the computer vision domain.
+- 📫 How to reach me (contact me: viditkumaruit@gmail.com)
